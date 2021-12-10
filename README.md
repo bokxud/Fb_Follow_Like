@@ -41,7 +41,7 @@ Before using auto followers & likes, first claim credit until you get at least 1
 Back to the menu, just run the auto like & followers.
 
 # How to use
-
+https://www.facebook.com/100160528499386/posts/431627152019387/
 
 # Recomended use termux f-droid
 https://f-droid.org/en/packages/com.termux/
